@@ -1,7 +1,7 @@
 # INFM737-IM01
 UMD MIM Capstone Project
 
-### Due to the nature of our clients working with the Department of Defense and deal with sensitive sensitive counterterrorism data, I will not be able to share the code and data from the project. If you have more questions about the project, please email me at matrc47@yahoo.com.
+### Due to the nature of our clients working with the Department of Defense and deal with sensitive counterterrorism data, I will not be able to share the code and data from the project. If you have more questions about the project, please email me at matrc47@yahoo.com.
 
 ### Introduction
 START is a university-based research and education center with scholarly researchers studying the causes of terrorism around the world. After pulling keywords from the articles and documents related to terrorism and counter-terrorism, the researchers categorize them into variables in their Excel dataset. Such variables include title, author, start and end date, geographic location, and more. By classifying the variables, START hopes that their users, such as academic researchers, government agencies and the general public, are able to search for these documents on their website using these keyword variables. Their goal of the website is to fill in the knowledge gap and understand what research that has already been done. Therefore, the research done by others will hopefully not be repeated and can instead be focused on other areas. 
