@@ -1,5 +1,6 @@
 # INFM737-IM01
 UMD MIM Capstone Project
+Members: Alejandro Chacon, Amitesvarjit Broca, Matthew Chan, Ujwal Gupta, Tanishq Kaushik
 
 ### Due to the nature of our clients working with the Department of Defense and deal with sensitive counterterrorism data, I will not be able to share the code and data from the project. If you have more questions about the project, please email me at matrc47@yahoo.com.
 
@@ -29,9 +30,9 @@ Overall, for our solution plan, we had to first understand the relationship betw
 ### Next Steps/Future Plans
 There are several possible future implementations for this project:
 - Implementing an update feature on the script for new entries
--- This will allow for new database entries to be entered. The back-end will continue to grow and have an easier process to handle new research.
+* This will allow for new database entries to be entered. The back-end will continue to grow and have an easier process to handle new research.
 - Expand the database to contain all of their original columns
--- Originally, the scope of this project was narrowed down to a set amount of columns lower than the original column count. A future enhancement would be to add all the columns that remain from the original set of data.
+* Originally, the scope of this project was narrowed down to a set amount of columns lower than the original column count. A future enhancement would be to add all the columns that remain from the original set of data.
 - Connecting the back-end database to the front-end website
--- Now that the back-end database has been designed and created, the next step is to have the front-end developer connect this database to their running site, allowing the end users  to access and query the research data in the back-end.
+* Now that the back-end database has been designed and created, the next step is to have the front-end developer connect this database to their running site, allowing the end users  to access and query the research data in the back-end.
 
